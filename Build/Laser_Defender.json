@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "Masakichi-26",
 "productName": "Laser Defender",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "Laser_Defender.data.unityweb",
 "wasmCodeUrl": "Laser_Defender.wasm.code.unityweb",
 "wasmFrameworkUrl": "Laser_Defender.wasm.framework.unityweb",
